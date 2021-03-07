@@ -38,17 +38,17 @@ For that, I'm going to:
 * Adaptive and cross-browsers html-coding.
 
 ## Code Examples
-const getUsersByApi = function () {
-    const url = "https://randomuser.me/api/?results=120&inc=gender,name,location,email,phone,picture,dob";
-    return fetch(url)
-        .then(handleErrors)
-        .then(response => response.json())
-        .then(data => data.results)
-        .catch(err => {
-            showError(err.message);
-            throw Error(err);
-        });
-}
+	const getUsersByApi = function () {
+	    const url = "https://randomuser.me/api/?results=120&inc=gender,name,location,email,phone,picture,dob";
+	    return fetch(url)
+	        .then(handleErrors)
+	        .then(response => response.json())
+	        .then(data => data.results)
+	        .catch(err => {
+	            showError(err.message);
+	            throw Error(err);
+	        });
+	}
 
 ## Work Experience
 Always open to knowledge, studying frontend course from https://kottans.org/ now.
