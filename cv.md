@@ -32,6 +32,27 @@ For that, I'm going to:
 ## Weaknesses
 * Perfectionism
 
+## Skills
+* JavaScript, Html, CSS, Photoshop(basic level), ArcGIS, SQL. GIT, VSCode. 
+* DRY, SOLID, KISS, YAGNI principles. 
+* Adaptive and cross-browsers html-coding.
+
+## Code Examples
+const getUsersByApi = function () {
+    const url = "https://randomuser.me/api/?results=120&inc=gender,name,location,email,phone,picture,dob";
+    return fetch(url)
+        .then(handleErrors)
+        .then(response => response.json())
+        .then(data => data.results)
+        .catch(err => {
+            showError(err.message);
+            throw Error(err);
+        });
+}
+
+## Work Experience
+Always open to knowledge, studying frontend course from https://kottans.org/ now.
+
 ## Education
 * 2020 — now Kottans.org frontend course
 * 2020 — now SpaceDeer English school
