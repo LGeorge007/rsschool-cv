@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 32px;
+    color: #e8ebf2;
+}
+
+body {
+    background-color: #1d242a;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1200px;
+    background-color: #a3b1bc;
+}
+
+.personal-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.descr {
+    margin: 0 40px;
+    text-align: justify;
+}
+
+h1,
+h2 {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #e8ebf2;
+}
+
+.characteristics-list {
+    margin: 0px 65px;
+}
+
+.personal-info {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-left: 40px;
+}
+
+.avatar {
+    display: block;
+    width: 250px;
+    border-radius: 5px;
+
+}
+
+.code-field {
+    background-color: #002451;
+    color: #fffff4;
+    font-size: 0.7rem;
+}
+
+.text-violet {
+    color: #ebbbff;
+}
+
+.text-blue {
+    color: #bbdaff;
+}
+
+.text-green {
+    color: #96e4a9;
+}
+
+.text-orange {
+    color: #ffc58f;
+}
+
+.text-red {
+    color: #d75151;
+}
+
+.text-yellow {
+    color: #ffe18d;
+}
+
+.indent-1 {
+    margin-left: 0px;
+}
+
+.indent-2 {
+    margin-left: 40px;
+}
+
+.indent-3 {
+    margin-left: 80px;
+}
+
+.indent-4 {
+    margin-left: 120px;
+}
+
+
+section,
+article {
+    padding: 20px 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 20px 15px;
+    background-color: #4e606e;
+    color: #fbfdfc;
+}
+
+.logo {
+    display: block;
+    width: 250px;
+    margin: 10px 10px;
+}
+
+.description-footer {
+    margin: 62px 30px 10px 10px;
+}
+
+.description-footer p {
+    font-size: 0.6rem;
+}
