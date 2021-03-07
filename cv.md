@@ -52,6 +52,7 @@ For that, I'm going to:
 
 ## Work Experience
 Always open to knowledge, studying frontend course from https://kottans.org/ now.
+My [github](https://github.com/LGeorge007).
 
 ## Education
 * 2020 — now Kottans.org frontend course
