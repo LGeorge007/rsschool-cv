@@ -37,10 +37,10 @@ For that, I'm going to:
 
 ## Skills
 * JavaScript, Html, CSS/SCSS.
-Photoshop, Figma. 
-SQL, GIT, VSCode. 
 * DRY, SOLID, KISS, YAGNI principles. 
 * Adaptive and cross-browsers html-coding.
+* Photoshop, Figma. 
+* SQL, GIT, VSCode. 
 
 ## Code Example
 	function duplicateEncode(word){
