@@ -22,3 +22,40 @@ For that, I'm going to:
 * have a JS practice,
 * have a html/css practice,
 * finish English course, that get me more that 100 hours speaking practice.
+  
+## Strengths
+* Self - Starter
+* Conscientious
+* Communicative
+* Attentive
+* Analitical mind
+* Good team worker
+* Have no bad habits
+
+## Weaknesses
+* Perfectionism
+
+## Skills
+* JavaScript, Html, CSS/SCSS.
+Photoshop, Figma. 
+SQL, GIT, VSCode. 
+* DRY, SOLID, KISS, YAGNI principles. 
+* Adaptive and cross-browsers html-coding.
+
+## Work Experience
+Always open to knowledge, studying frontend course from Udemy, RSSchool now.  
+Project examples: [js-rendered page](https://lgeorge007.github.io/DOM-practice/), [memory pairs game](https://lgeorge007.github.io/memory-pair-game/).
+
+## Education
+* 2021 — now frontend courses from Udemy
+* 2020 — SpaceDeer English school
+* 2019 — 2020 course of  English in KNU Shevchenko
+* 2008 — 2012 Donetsk University of  Economics and Law. Master of accounting and audit.
+
+## Languages
+* Russian — native.
+* Ukrainian — native.
+* English — intermediate.
+
+## Hobbies
+Foreign languages, logical quizzes, sport.
