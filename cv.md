@@ -44,15 +44,15 @@ For that, I'm going to:
 
 ## Code Example
 	function duplicateEncode(word){
-    //make a frequency map
+    	//make a frequency map
     	const freqMap = [...word.toLowerCase()].reduce((acc, val) => {
-        	acc[val] = acc[val] + 1 || 1;
-        	return acc;
+        		acc[val] = acc[val] + 1 || 1;
+        		return acc;
     	}, {});
-    //return the mapped str 
-        return [...word.toLowerCase()]
-           	.map(e => freqMap[e] == 1 ? '(' : ')')
-           	.join('');
+    	//return the mapped str 
+    	return [...word.toLowerCase()]
+            	.map(e => freqMap[e] == 1 ? '(' : ')')
+            	.join('');
 	}
 
 ## Work Experience
