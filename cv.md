@@ -42,6 +42,19 @@ SQL, GIT, VSCode.
 * DRY, SOLID, KISS, YAGNI principles. 
 * Adaptive and cross-browsers html-coding.
 
+## Code Example
+	function duplicateEncode(word){
+    //make a frequency map
+    	const freqMap = [...word.toLowerCase()].reduce((acc, val) => {
+        	acc[val] = acc[val] + 1 || 1;
+        	return acc;
+    	}, {});
+    //return the mapped str 
+        return [...word.toLowerCase()]
+           	.map(e => freqMap[e] == 1 ? '(' : ')')
+           	.join('');
+	}
+
 ## Work Experience
 Always open to knowledge, studying frontend course from Udemy, RSSchool now.  
 Project examples: [js-rendered page](https://lgeorge007.github.io/DOM-practice/), [memory pairs game](https://lgeorge007.github.io/memory-pair-game/).
