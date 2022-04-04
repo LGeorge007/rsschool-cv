@@ -75,3 +75,43 @@ a:hover {
     color: #fffff4;
     font-size: 0.7rem;
 }
+
+.text-violet {
+    color: #ebbbff;
+}
+
+.text-blue {
+    color: #bbdaff;
+}
+
+.text-green {
+    color: #96e4a9;
+}
+
+.text-orange {
+    color: #ffc58f;
+}
+
+.text-red {
+    color: #d75151;
+}
+
+.text-yellow {
+    color: #ffe18d;
+}
+
+.indent-1 {
+    margin-left: 0px;
+}
+
+.indent-2 {
+    margin-left: 40px;
+}
+
+.indent-3 {
+    margin-left: 80px;
+}
+
+.indent-4 {
+    margin-left: 120px;
+}
