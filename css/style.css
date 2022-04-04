@@ -115,3 +115,26 @@ a:hover {
 .indent-4 {
     margin-left: 120px;
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 20px 15px;
+    background-color: #4e606e;
+    color: #fbfdfc;
+}
+
+.logo {
+    display: block;
+    width: 250px;
+    margin: 10px 10px;
+}
+
+.description-footer {
+    margin: 62px 30px 10px 10px;
+}
+
+.description-footer p {
+    font-size: 0.6rem;
+}
